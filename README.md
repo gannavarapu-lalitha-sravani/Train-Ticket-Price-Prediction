@@ -3,7 +3,9 @@
 
 ## Predicting train ticket prices offers several advantages:
 1.Enhanced Customer Experience
+
 2.Optimized Pricing Strategies
+
 3.Revenue Maximization
 4.Data-Driven Decision Making
 5.Improved Revenue Forecasting
