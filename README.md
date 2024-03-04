@@ -19,6 +19,12 @@
 8.Customer Loyalty and Retention
 
 
+![image](https://github.com/gannavarapu-lalitha-sravani/Train-Ticket-Price-Prediction/assets/148282479/0d3799ca-4c59-4c84-ba46-316899aa6473)
+
+
+## Main Goal 
+"Train-Ticket-Price-Prediction" project's main goal is to create a scalable, reliable system that can forecast train ticket prices. The project intends to help railway companies optimize pricing strategies and maximize revenue while offering passengers transparent and competitive pricing through the use of data engineering techniques and predictive modeling. By using data-driven insights to guide pricing decisions and resource allocation, the project ultimately aims to improve operational efficiency, foster business growth, and improve the overall customer experience for railway companies.
+
 
 
 
